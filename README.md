@@ -197,6 +197,13 @@ sudo rm -rf /var/lib/docker
 sudo rm -rf /var/lib/containerd
 ~~~
 
+## Autora
+
+#### :woman_technologist:Mariah Manetti
+* [LinkedIn](https://www.linkedin.com/in/m-manetti-r/)
+* [GitHub](https://github.com/mahnetti)
+
+
 #### Referências:
 * https://www.globalmind.com.br/vantagens-da-utilizacao-do-docker-container/
 * https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-pt
