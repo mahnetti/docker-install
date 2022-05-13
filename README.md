@@ -197,6 +197,9 @@ sudo rm -rf /var/lib/containerd
 * https://www.globalmind.com.br/vantagens-da-utilizacao-do-docker-container/
 * https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-pt
 * https://www.hostinger.com.br/tutoriais/install-docker-ubuntu
+* https://stack.desenvolvedor.expert/appendix/docker/oquee.html
 * https://www.youtube.com/watch?v=Kzcz-EVKBEQ
 * https://docs.docker.com/engine/install/ubuntu/
+* https://www.treinaweb.com.br/blog/no-final-das-contas-o-que-e-o-docker-e-como-ele-funciona
+* https://www.microserviceit.com.br/docker/
 * Documentação das aulas da Trybe
