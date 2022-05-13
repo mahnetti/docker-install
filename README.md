@@ -199,7 +199,7 @@ sudo rm -rf /var/lib/containerd
 
 ## Autora
 
-#### :woman_technologist:Mariah Manetti
+#### :woman_technologist: Mariah Manetti
 * [LinkedIn](https://www.linkedin.com/in/m-manetti-r/)
 * [GitHub](https://github.com/mahnetti)
 
