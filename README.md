@@ -45,13 +45,15 @@ O *Docker* acaba sendo um recurso interessante por:
 Estou usando como base o *Ubuntu LTS - 64-bit*. Para outros sistemas operacionais(OS) acesse a <a href="https://docs.docker.com/engine/install/">documentação oficial</a> e se você está no *Ubuntu* e ocorra algo que não deveria, não se preocupe ~~(confia)~~, <a href="https://docs.docker.com/engine/install/ubuntu/">essa documentação(também oficial)</a> te salva!
 
 #### Pré-requisitos
-Para a instalação do *Docker Enginer* você precisa da versão de algum desses *Ubuntu*:
+Para a instalação do *Docker Enginer* vou usar como base o distro do Linux *Ubuntu*, essa instalação contempla ás seguintes versões:
 * *Ubuntu Jammy 22.04 (LTS)*
 * *Ubuntu Impish 21.10*
 * *Ubuntu Focal 20.04 (LTS)*
 * *Ubuntu Bionic 18.04 (LTS)*
 
 *Docker Enginer* é suportado pelas seguintes arquiteturas: *x86_64 (ou amd64), armhf, arm64 e s390x*
+
+*Para outros sistemas operacionais consulte [essa documentação](https://docs.docker.com/engine/install/)*
 
 1. Primeiro passo é o de sempre!! Bora de ```crlt + alt + t``` para abrir o terminal.
 
