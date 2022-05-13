@@ -55,6 +55,8 @@ Para a instalação do *Docker Enginer* vou usar como base o distro do Linux *Ub
 
 *Para outros sistemas operacionais consulte [essa documentação](https://docs.docker.com/engine/install/)*
 
+####Então bora que bora!!
+
 1. Primeiro passo é o de sempre!! Bora de ```crlt + alt + t``` para abrir o terminal.
 
 2. Agora, caso você já use o *Docker* e esteja com uma versão antiga ou com problemas vamos precisar desintalá-lo.
