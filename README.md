@@ -1,4 +1,4 @@
-# Usando e desenvolvendo com Docker
+# Entendendo e instalando Docker
 
 ## Índice:
 
